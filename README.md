@@ -1,6 +1,8 @@
 # Udacity-CryptoStarDapp
 
-Truffle version and OpenZeppelin version used in the project.
+Truffle version and OpenZeppelin version used in the project
+Truffle v5.1.51 (core: 5.1.51)
+OpenZeppelin v3.2.0
 
 ERC-721 Token Name = "Great Star Token"
 
